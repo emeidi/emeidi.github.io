@@ -1,7 +1,7 @@
 # Material
 
 ## Krücken
-* Drittes Bein an Krücke bei Ortho-Team
+* Ortho-Team: [Gehstockstütze A3X](https://produkte.gelbart.ch/de-de/Category/Index/A3X-Gehstockstütze-p?path=Produktewelt%2Fmobilitaet%2FGehstoecke-xxl%2Fg-gehhilfen-gehstoecke-2018). Ein ausklappbares "drittes" Bein an Krücke, damit man diese wie ein Tripod aufstellen kann. Jeden Franken wert, must have.
 * Handschuhe: [uvex Phynomic allround](https://www.galaxus.ch/de/s4/product/uvex-phynomic-allround-9-l-arbeitshandschuhe-gartenhandschuhe-5847452)
 * [Vitility Greifer](https://www.galaxus.ch/de/s4/product/vitility-greifer-zange-11861851)
 
