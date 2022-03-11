@@ -2,6 +2,7 @@
 
 ## Krücken
 * Ortho-Team: [Gehstockstütze A3X](https://produkte.gelbart.ch/de-de/Category/Index/A3X-Gehstockstütze-p?path=Produktewelt%2Fmobilitaet%2FGehstoecke-xxl%2Fg-gehhilfen-gehstoecke-2018). Ein ausklappbares "drittes" Bein an Krücke, damit man diese wie ein Tripod aufstellen kann. Jeden Franken wert, must have.
+* [Krückenständer aus Kunststoff](https://www.careproduct.ch/pi/Gehhilfen/Zubehoer1/krueckenstaender-aus-kunststoff.html) zur sicheren Lagerung der Krücken neben dem Bett
 * Handschuhe: [uvex Phynomic allround](https://www.galaxus.ch/de/s4/product/uvex-phynomic-allround-9-l-arbeitshandschuhe-gartenhandschuhe-5847452)
 * [Vitility Greifer](https://www.galaxus.ch/de/s4/product/vitility-greifer-zange-11861851)
 
@@ -11,7 +12,7 @@
   * ACHTUNG: Mit der Zeit haben sich am rechten Fuss Bläschen gebildet. Nach der Behandlung mit Zink-Salbe und dem Umstieg auf Bambus-Socken hat sich das Problem gelöst:
   * [Rohner Basic Bambus Sneakers](https://rohner-socks.com/collections/rohner-basic/products/sneaker-bambus-3er-pack) und [Rohner Basic Bambus](https://rohner-socks.com/collections/rohner-basic/products/bambus-2er-pack)
 * Shorts mit Taschen auf beiden Seiten (wichtig solange man Krücken benötigt): [PUMA Herren RTG Interlock 10in Shorts-Schwarz, Weiß Hosen, M](https://www.amazon.de/gp/product/B082R7439R/)
-* Reha-Hosen: [Stautz Premium Rehahose für Herren](https://www.amazon.de/gp/product/B07N5BHD4H/)
+* Reha-Hosen: [Stautz Premium Rehahose für Herren](https://www.amazon.de/gp/product/B07N5BHD4H/) Erleichtern das an- und ausziehen bei den Physio-, Massage- und Arzt-Besuchen, gerade am Anfang
 
 ## Bett
 * Kissen
@@ -20,7 +21,7 @@
   * [sleepling Seitenschläferkissen 40×145cm](https://www.amazon.de/gp/product/B01F24Z9B8/)
   * [DIY Doctor Medipaq Halbmond-Kissen](https://www.amazon.de/gp/product/B00O7RMRSA/)
   * [Sports Medica Orthopädischer Memory-Foam-Keil für Seitenschläfer](https://www.amazon.de/gp/product/B01N3S9Y4P/) Meine Frau liebt dieses Kissen
-  * Schwangerschaftskissen/Stillkissen: []()
+  * Schwangerschaftskissen/Stillkissen: [ROL Maxi 160 A](https://shop.idee-lq.ch/lagerungsrollen/9-ROLMaxi160A.html) Zu hart
 * Laptop-Ständer: [Tatkraft Newton](https://www.galaxus.ch/de/s1/product/tatkraft-newton-notebook-staender-13063751) um während den ersten Wochen im Bett arbeiten zu können (zusammen mit dem OBA POL 32)
 
 ## Büro
