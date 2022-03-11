@@ -11,6 +11,8 @@
   * Rutschfeste Yoga-Socken: [Fangehong Antirutsch Socken](https://www.amazon.de/gp/product/B08PKN8ZLS/)
   * ACHTUNG: Mit der Zeit haben sich am rechten Fuss Bläschen gebildet. Nach der Behandlung mit Zink-Salbe und dem Umstieg auf Bambus-Socken hat sich das Problem gelöst:
   * [Rohner Basic Bambus Sneakers](https://rohner-socks.com/collections/rohner-basic/products/sneaker-bambus-3er-pack) und [Rohner Basic Bambus](https://rohner-socks.com/collections/rohner-basic/products/bambus-2er-pack)
+  * Sigvaris Kompressionsstrümpfe, Zehen offen, bis Hüfte
+    * [Sigvaris slim-slide L](https://www.sigvaris.com/en-ch/catalog/accessories/donning-and-doffing-aids/sim-slide-donning-and-doffing-device-1) Anzugshilfe. Must have.
 * Shorts mit Taschen auf beiden Seiten (wichtig solange man Krücken benötigt): [PUMA Herren RTG Interlock 10in Shorts-Schwarz, Weiß Hosen, M](https://www.amazon.de/gp/product/B082R7439R/)
 * Reha-Hosen: [Stautz Premium Rehahose für Herren](https://www.amazon.de/gp/product/B07N5BHD4H/) Erleichtern das an- und ausziehen bei den Physio-, Massage- und Arzt-Besuchen, gerade am Anfang
 
@@ -64,3 +66,14 @@
 
 ## Medizin
 * Medikamentenbox: [Anabox Medidispenser](https://www.galaxus.ch/de/s6/product/anabox-medidispenser-medikamentenbox-11209738)
+* Bepanthen Narbengel
+* Lyman gegen Blutergüsse nach Operation
+* Pflaster
+  * Mepore Wundverbände
+    * [4×5cm](https://www.mcdrogerie.ch/mepore-film-pad-4x5cm-5-stuck)
+    * [5×7cm](https://www.mcdrogerie.ch/mepore-film-pad-5x7cm-square-5-stuck)
+	* [6×7cm](https://www.mcdrogerie.ch/mepore-wundverband-7x6cm-wundkissen-4x3cm-steril-60-stuck-57510)
+  * Smith & Nephew Wundverbände
+    * [15×8cm](https://www.galaxus.ch/de/s6/product/smith-nephew-wundverband-15x8cm-steril-verbandsmaterial-11216389)
+	* [20×10cm](https://www.galaxus.ch/de/s6/product/smith-nephew-wundverband-20x10cm-steril-verbandsmaterial-11222687)
+	* [25×10cm](https://www.galaxus.ch/de/s6/product/smith-nephew-wundverband-25x10cm-steril-verbandsmaterial-12030128)
