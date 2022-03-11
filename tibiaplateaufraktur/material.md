@@ -1,7 +1,9 @@
 # Material
 
-## Gehhilfen
+## Krücken
 * Drittes Bein an Krücke bei Ortho-Team
+* Handschuhe: [uvex Phynomic allround](https://www.galaxus.ch/de/s4/product/uvex-phynomic-allround-9-l-arbeitshandschuhe-gartenhandschuhe-5847452)
+* [Vitility Greifer](https://www.galaxus.ch/de/s4/product/vitility-greifer-zange-11861851)
 
 ## Kleidung
 * Socken
@@ -17,8 +19,12 @@
   * [OBA POL 32](https://www.oba.ch/pol-32)
   * [sleepling Seitenschläferkissen 40×145cm](https://www.amazon.de/gp/product/B01F24Z9B8/)
   * [DIY Doctor Medipaq Halbmond-Kissen](https://www.amazon.de/gp/product/B00O7RMRSA/)
-  * [Sports Medica Orthopädischer Memory-Foam-Keil für Seitenschläfer](https://www.amazon.de/gp/product/B01N3S9Y4P/)
-* Laptop-Ständer: [Tatkraft Newton](https://www.galaxus.ch/de/s1/product/tatkraft-newton-notebook-staender-13063751)
+  * [Sports Medica Orthopädischer Memory-Foam-Keil für Seitenschläfer](https://www.amazon.de/gp/product/B01N3S9Y4P/) Meine Frau liebt dieses Kissen
+  * Schwangerschaftskissen/Stillkissen: []()
+* Laptop-Ständer: [Tatkraft Newton](https://www.galaxus.ch/de/s1/product/tatkraft-newton-notebook-staender-13063751) um während den ersten Wochen im Bett arbeiten zu können (zusammen mit dem OBA POL 32)
+
+## Büro
+* [Sundo Keilkissen](https://www.galaxus.ch/de/s14/product/sundo-keilkissen-sitzkissen-11826016)
 
 ## Massage
 * Blackroll Bälle
@@ -30,10 +36,13 @@
   * [Blackroll Standard](https://www.galaxus.ch/de/s6/product/blackroll-standard-massagegeraet-2588398)
   * [Physix Gear Massageroller](https://www.amazon.de/gp/product/B086SLGN7W/)
 * Akupressurmatte Massagematte: [Diveevo No. 56 230×260mm](https://www.amazon.de/gp/product/B08DVCTMGQ/)
+* Kirschkissen: [Grünspecht Kirschkern-Kissen](https://www.galaxus.ch/de/s10/product/gruenspecht-kirschkern-kissen-19-x-19-cm-kinderkissen-13132751)
 * Knie-Massager: [Comfier](https://www.amazon.de/gp/product/B07SG4V2T5/)
 * Fussbad: [Misiki Fussbadewanne](https://www.amazon.de/gp/product/B07WRY4Z7K/)
+* TENS: [Bluetens Duo Sport](https://www.galaxus.ch/de/s6/product/bluetens-duo-sport-ems-tens-geraet-10207919) Seit Monaten nicht mehr genutzt
 
 ## Physiotherapie & Training
+* Barfussschuhe: [Skinners 2.0](https://www.galaxus.ch/de/s3/product/skinners-20-41-42-sportsocken-14898005)
 * Mini-Bike: [Tunturi Cardio Fit M35](https://www.amazon.de/gp/product/B076M8RDS4/)
 * Rudermaschine: Concept 2 (hatte ich bereits vor dem Unfall)
 * Trampolin: [Bellicon 112cm](https://www.amazon.de/bellicon-Fitness-Trampolin-Schraubbeine-umfangreichem-Einführungspaket/dp/B07RLZ6DZ2) mit Klappbeinen und Stange
@@ -41,7 +50,12 @@
   * [Amazon Basics Balancekissen](https://www.amazon.de/gp/product/B07RSS8V6K/)
   * [SportyAnis Balance-Pad](https://www.amazon.de/gp/product/B078MSL8TP/)
 * Yoga-Matte: [Amazon Basics](https://www.amazon.de/gp/product/B07R6TQMDX/)
+* Gewichtsmannschetten: [Tunturi Arm and Leg](https://www.galaxus.ch/de/s3/product/tunturi-arm-and-leg-2-x-225-kg-zusatzgewicht-6982709)
 * Bänder mit versch. Dehnstärken
+  * [Sveltus Latex](https://www.galaxus.ch/de/s3/product/sveltus-latex-band-120-m-leicht-fitnessband-13169830)
+  * [Xiaomi Resistance](https://www.galaxus.ch/de/s3/product/xiaomi-resistance-103-m-stark-fitnessband-13364875)
+  * Perform Aerobic Band [leicht](https://www.galaxus.ch/de/s3/product/perform-aerobic-band-2-m-leicht-fitnessband-12973390), [mittel](https://www.galaxus.ch/de/s3/product/perform-aerobic-band-2-m-mittel-fitnessband-12285718)
+  * Sveltus Powerbands [leicht](https://www.galaxus.ch/de/s3/product/sveltus-powerband-103-m-leicht-fitnessband-13155353), [mittel](https://www.galaxus.ch/de/s3/product/sveltus-powerband-103-m-mittel-fitnessband-13155352) und [stark](https://www.galaxus.ch/de/s3/product/sveltus-powerband-103-m-stark-fitnessband-13155351)
   * [Supertrip Fitnessbänder](https://www.amazon.de/gp/product/B08ZS4NXDB/)
 * Liebscher Bracht
   * [Knieretter](https://shop.liebscher-bracht.com/dehnen/der-knieretter/)
