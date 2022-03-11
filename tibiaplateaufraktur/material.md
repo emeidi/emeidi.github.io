@@ -1,4 +1,6 @@
-# Material
+# Tibiaplateaufraktur: Material
+
+[Homepage](index.md)
 
 ## Krücken
 * Ortho-Team: [Gehstockstütze A3X](https://produkte.gelbart.ch/de-de/Category/Index/A3X-Gehstockstütze-p?path=Produktewelt%2Fmobilitaet%2FGehstoecke-xxl%2Fg-gehhilfen-gehstoecke-2018). Ein ausklappbares "drittes" Bein an Krücke, damit man diese wie ein Tripod aufstellen kann. Jeden Franken wert, must have.
