@@ -6,6 +6,10 @@
 * Handschuhe: [uvex Phynomic allround](https://www.galaxus.ch/de/s4/product/uvex-phynomic-allround-9-l-arbeitshandschuhe-gartenhandschuhe-5847452)
 * [Vitility Greifer](https://www.galaxus.ch/de/s4/product/vitility-greifer-zange-11861851)
 
+## Körperpflege
+* Spiegel: [Zone Denmark Kosmetikspiegel](https://www.galaxus.ch/de/s14/product/zone-denmark-kosmetikspiegel-kosmetikspiegel-8539612) Zur sitzenden Rasur am Tisch
+* Badewannen-Sitz, Badewannen-Brett: [Ridder Badewannen-Brett mit Haltegriff weiss](https://www.nettoshop.ch/Haushalt-Kleingeräte/Wohnen/Badezimmer/Badaccessoires/Ridder-Badewannen-Brett-mit-Haltegriff-weiss/p/IP265029) Da wir in der damaligen Wohnung nur eine Badewanne hatten
+
 ## Kleidung
 * Socken
   * Rutschfeste Yoga-Socken: [Fangehong Antirutsch Socken](https://www.amazon.de/gp/product/B08PKN8ZLS/)
