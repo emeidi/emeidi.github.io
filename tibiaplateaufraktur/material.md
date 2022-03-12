@@ -24,11 +24,12 @@
 
 ## Bett
 * Kissen
-  * [OBA POL 10](https://www.oba.ch/pol-10)
-  * [OBA POL 32](https://www.oba.ch/pol-32)
-  * [sleepling Seitenschläferkissen 40×145cm](https://www.amazon.de/gp/product/B01F24Z9B8/)
+  * WICHTIG: Das Knie nicht zu lange mit einem Kissen unterlegen. Es kann ein Streckdefizit fördern
+  * Knieunterlage: [OBA POL 10](https://www.oba.ch/pol-10)
+  * Kopfkissen: [OBA POL 32](https://www.oba.ch/pol-32) Hilft auch als stabile Rückenstütze beim Arbeiten im Bett
+  * [sleepling Seitenschläferkissen 40×145cm](https://www.amazon.de/gp/product/B01F24Z9B8/) Meine Frau liebt dieses Kissen
   * [DIY Doctor Medipaq Halbmond-Kissen](https://www.amazon.de/gp/product/B00O7RMRSA/)
-  * [Sports Medica Orthopädischer Memory-Foam-Keil für Seitenschläfer](https://www.amazon.de/gp/product/B01N3S9Y4P/) Meine Frau liebt dieses Kissen
+  * [Sports Medica Orthopädischer Memory-Foam-Keil für Seitenschläfer](https://www.amazon.de/gp/product/B01N3S9Y4P/)
   * Schwangerschaftskissen/Stillkissen: [ROL Maxi 160 A](https://shop.idee-lq.ch/lagerungsrollen/9-ROLMaxi160A.html) Zu hart
 * Laptop-Ständer: [Tatkraft Newton](https://www.galaxus.ch/de/s1/product/tatkraft-newton-notebook-staender-13063751) um während den ersten Wochen im Bett arbeiten zu können (zusammen mit dem OBA POL 32)
 
